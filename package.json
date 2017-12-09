@@ -1,0 +1,20 @@
+{
+  "name": "dIA",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "AlejandroHerr <ahernandezc@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "robotjs": "^0.4.7"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0",
+    "cross-env": "^5.1.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  },
+  "scripts": {
+    "dev": "cross-env NODE_ENV=\"development\" NODE_PATH=src node -r babel-register src/index.js"
+  }
+}
