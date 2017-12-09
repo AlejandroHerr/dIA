@@ -1,97 +1,0 @@
-Script started on Sat Dec  9 18:40:03 2017
-Now using node v8.9.2 (npm v5.6.0)
-v8.9.2
-]0;fish  /Users/alejandro/Code/dIA[30m(B[mWelcome to fish, the friendly interactive shell
-[?2004h]7;file://Alejandros-MacBook-Pro.local/Users/alejandro/Code/dIA]0;fish  /Users/alejandro/Code/dIA[30m(B[m[38;5;237m⏎(B[m                                                                                 ⏎ [2K[44m[30m ~/C/dIA [43m[34m [43m[30m development ± [40m(B[m[33m [Kl[91ml[30m(B[m[38;2;85;85;85ms[30m(B[m[91ms[30m(B[m[1mls(B[m[1m (B[m [38;2;85;85;85m-lahT[30m(B[m-[38;2;85;85;85mlahT[30m(B[m[36m-[38;2;85;85;85mlahT[30m(B[m[36ml[38;2;85;85;85mahT[30m(B[m[36ma[38;2;85;85;85mhT[30m(B[m[K
-[30m(B[m[?2004l]0;ls  /Users/alejandro/Code/dIA[30m(B[m[0mtotal 264[0m
-[0m[1m[37md[0m[32;92mrwx[0m[33mr[0m-[0m[33mx[0m[31;91mr[0m-[0m[31;91mx[0m   13 alejandro  staff    416 Dec  9[0m[37m 18:40[0m .[0m
-[0m[1m[37md[0m[32;92mrwx[0m[33mr[0m-[0m[33mx[0m[31;91mr[0m-[0m[31;91mx[0m   37 alejandro  staff   1184 Dec  9[0m[37m 18:29[0m ..[0m
-[0m-[0m[32;92mrw[0m-[0m[33mr[0m--[0m[31;91mr[0m--    1 alejandro  staff     25 Dec  9[0m[37m 18:33[0m .babelrc[0m
-[0m-[0m[32;92mrw[0m-[0m[33mr[0m--[0m[31;91mr[0m--    1 alejandro  staff     50 Dec  9[0m[37m 18:31[0m .eslintrc.js[0m
-[0m[1m[37md[0m[32;92mrwx[0m[33mr[0m-[0m[33mx[0m[31;91mr[0m-[0m[31;91mx[0m    9 alejandro  staff    288 Dec  9[0m[37m 18:40[0m .git[0m
-[0m-[0m[32;92mrw[0m-[0m[33mr[0m--[0m[31;91mr[0m--    1 alejandro  staff     43 Dec  9[0m[37m 18:40[0m node[0m
-[0m[1m[37md[0m[32;92mrwx[0m[33mr[0m-[0m[33mx[0m[31;91mr[0m-[0m[31;91mx[0m  199 alejandro  staff   6368 Dec  9[0m[37m 18:38[0m node_modules[0m
-[0m-[0m[32;92mrw[0m-[0m[33mr[0m--[0m[31;91mr[0m--    1 alejandro  staff  13882 Dec  9[0m[37m 18:31[0m package-lock.json[0m
-[0m-[0m[32;92mrw[0m-[0m[33mr[0m--[0m[31;91mr[0m--    1 alejandro  staff    512 Dec  9[0m[37m 18:38[0m package.json[0m
-[0m-[0m[32;92mrwx[0m[33mr[0m-[0m[33mx[0m[31;91mr[0m-[0m[31;91mx[0m    1 alejandro  staff     63 Dec  9[0m[37m 18:39[0m script[0m
-[0m[1m[37md[0m[32;92mrwx[0m[33mr[0m-[0m[33mx[0m[31;91mr[0m-[0m[31;91mx[0m    3 alejandro  staff     96 Dec  9[0m[37m 18:37[0m src[0m
-[0m-[0m[32;92mrw[0m-[0m[33mr[0m--[0m[31;91mr[0m--    1 alejandro  staff  47766 Dec  9[0m[37m 18:37[0m yarn-error.log[0m
-[0m-[0m[32;92mrw[0m-[0m[33mr[0m--[0m[31;91mr[0m--    1 alejandro  staff  48064 Dec  9[0m[37m 18:38[0m yarn.lock[0m
-[?2004h]0;fish  /Users/alejandro/Code/dIA[30m(B[m[38;5;237m⏎(B[m                                                                                 ⏎ [2K[44m[30m ~/C/dIA [43m[34m [43m[30m development ± [40m(B[m[33m [Kc[38;2;85;85;85mhmod +x script [15D[30m(B[m[91mc[38;2;85;85;85mhmod +x script [15D[30m(B[m[91ma[30m(B[m[K[38;2;85;85;85mt script [9D[30m(B[m[91mt[38;2;85;85;85m script [30m(B[m[1mcat(B[m[38;2;85;85;85m script [30m(B[m[1m (B[m[38;2;85;85;85mscript [30m(B[m [38;2;85;85;85mscript [30m(B[m[K[K[91mca[30m(B[m[K[Kg[38;2;85;85;85mit checkout -b development[26D[30m(B[m[91mg[38;2;85;85;85mit checkout -b development[26D[30m(B[m[91mi[38;2;85;85;85mt checkout -b development[25D[30m(B[m[91m [30m(B[m[K 
-node           package-lock.json  script  yarn-error.log
-node_modules/  package.json       src/    yarn.lock     [A[A[24D[K
-[K
-[K[A[A[31C[K[Kprintf "function gi\[20D[1mprintf(B[m [91m"function gi\[30m(B[m[38;2;85;85;85mn\tcurl -L -s https://www.gitig…[32D[30m(B[m[91mn[38;2;85;85;85m\tcurl -L -s https://www.gitig…[31D[30m(B[m[91m\[38;2;85;85;85mtcurl -L -s https://www.gitig…[30D[30m(B[m[22D[K
-[1mprintf(B[m [91m"function gi\n\tcurl -L -s https://www.gitignore.io/api/[30m(B[m[91m\[30m(B[m[91m$argv[30m(B[m[91m\[30m(B[m[91mnend[30m(B[m[91m\[30m(B[m[91mn" > ~/.config/fish/functions/gi.fish[30m(B[m
-[A[A[7C[33m"function gi\n\tcurl -L -s https://www.gitignore.io/api/[93m[1m\$(B[m[33margv\nend\n"[30m(B[m [94m>[30m(B[m [94m~/.config/fish/functions/gi.fish
-[30m(B[m]0;fish  /Users/alejandro/Code/dIA[30m(B[m[A[A[A[44m[30m ~/C/dIA [43m[34m [43m[30m development ± [40m(B[m[33m [K
-[1mprintf(B[m [33m"function gi\n\tcurl -L -s https://www.gitignore.io/api/[93m[1m\$(B[m[33margv\nend\n"[30m(B[m [94m>[30m(B[m [94m~/.config/fish/functions/gi.fish[30m(B[m[K
-[K
-[30m(B[m[?2004l]0;printf  /Users/alejandro/Code/dIA[30m(B[m[?2004h]0;fish  /Users/alejandro/Code/dIA[30m(B[m[38;5;237m⏎(B[m                                                                                 ⏎ [2K[44m[30m ~/C/dIA [43m[34m [43m[30m development ± [40m(B[m[33m [Kg[91mg[30m(B[m[38;2;85;85;85mit checkout -b development[26D[30m(B[m[91mi[38;2;85;85;85mt checkout -b development[25D[30m(B[m[91m [30m(B[m[K n[36m[4mn[30m(B[m[38;2;85;85;85mode [30m(B[m[36m[4mo[38;2;85;85;85m[24mde [30m(B[m[36m[4md[38;2;85;85;85m[24me [30m(B[m[36m[4me[38;2;85;85;85m[24m [30m(B[m[K
-[30m(B[m[?2004l]0;gi  /Users/alejandro/Code/dIA[30m(B[m
-# Created by https://www.gitignore.io/api/node
-
-### Node ###
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
-
-# Directory for instrumented libs generated by jscoverage/JSCover
-lib-cov
-
-# Coverage directory used by tools like istanbul
-coverage
-
-# nyc test coverage
-.nyc_output
-
-# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
-
-# Bower dependency directory (https://bower.io/)
-bower_components
-
-# node-waf configuration
-.lock-wscript
-
-# Compiled binary addons (http://nodejs.org/api/addons.html)
-build/Release
-
-# Dependency directories
-node_modules/
-jspm_packages/
-
-# Typescript v1 declaration files
-typings/
-
-# Optional npm cache directory
-.npm
-
-# Optional eslint cache
-.eslintcache
-
-# Optional REPL history
-.node_repl_history
-
-# Output of 'npm pack'
-*.tgz
-
-# Yarn Integrity file
-.yarn-integrity
-
-# dotenv environment variables file
-.env
-
-
-# End of https://www.gitignore.io/api/node
-[?2004h]0;fish  /Users/alejandro/Code/dIA[30m(B[m[38;5;237m⏎(B[m                                                                                 ⏎ [2K[44m[30m ~/C/dIA [43m[34m [43m[30m development ± [40m(B[m[33m [Kgi node[1mgi(B[m [36m[4mnode[30m(B[m[36m[4m [30m(B[m >[36mnode[30m(B[m [94m>[30m(B[m[38;2;85;85;85mnode [30m(B[m[94m [30m(B[m[K [38;2;85;85;85mnode [30m(B[mg[K[94mg[30m(B[m[K.[91m.[30m(B[m[38;2;85;85;85m./[30m(B[m[91mg[30m(B[m[K[94m.g[30m(B[m[38;2;85;85;85mit/[30m(B[m[94mi[38;2;85;85;85mt/[30m(B[m[94mt[38;2;85;85;85m/[30m(B[m[91m.git[38;2;85;85;85m/[30m(B[m[91mi[30m(B[m[94m.giti[30m(B[m[94mg[30m(B[m[94mn[30m(B[m[94mo[30m(B[m[94mr[30m(B[m[94me[30m(B[m
-[30m(B[m[?2004l]0;gi  /Users/alejandro/Code/dIA[30m(B[m[?2004h]0;fish  /Users/alejandro/Code/dIA[30m(B[m[38;5;237m⏎(B[m                                                                                 ⏎ [2K[44m[30m ~/C/dIA [43m[34m [43m[30m development ± [40m(B[m[33m [Kc[91mc[30m(B[m[38;2;85;85;85mhmod +x script [15D[30m(B[m[91ma[30m(B[m[K[38;2;85;85;85mt script [9D[30m(B[m[91mt[38;2;85;85;85m script [30m(B[m[1mcat(B[m[38;2;85;85;85m script [30m(B[m[1m (B[m[38;2;85;85;85mscript [30m(B[m [38;2;85;85;85mscript [30m(B[m.[K[36m[4m.[30m(B[m[38;2;85;85;85m./funkmaster-api/package.json [30D[30m(B[m
